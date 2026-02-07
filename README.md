@@ -43,7 +43,7 @@ Here is what I'm planning for the next updates (v2.0):
 
 Want to suggest a feature or report a bug? Join us on Reddit!
 
-<a href="https://www.reddit.com/r/ΤΟ_ΟΝΟΜΑ_ΠΟΥ_ΕΦΤΙΑΞΕΣ">
+<a href="https://www.reddit.com/r/Virtus_app/">
   <img src="https://img.shields.io/badge/Join-r%2FVirtusApp-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="40">
 </a>
 
