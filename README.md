@@ -23,7 +23,19 @@ VIRTUS is a minimalistic, distraction-free workout tracker designed for serious 
 * **No Ads:** Just pure lifting.
 
 ---
+## 🚀 Roadmap / Upcoming Features
 
+Here is what I'm planning for the next updates (v2.0):
+
+- [ ] **Music Control:** See track info and control music directly from the app.
+- [ ] **Analytics:** Graphs to visualize your strength progress over time.
+- [ ] **1RM Calculator:** Estimate your One Rep Max based on your lifts.
+- [ ] **Social Sharing:** Create cool summaries to share on Instagram Stories.
+- [ ] **Achievements:** Unlock badges like "Early Bird" or "Heavy Lifter".
+
+> *Have a feature request? Feel free to open an Issue!*
+
+---
 ## ❤️ Support Development
 
 If you enjoy using VIRTUS, consider buying me a monster to keep me coding!
