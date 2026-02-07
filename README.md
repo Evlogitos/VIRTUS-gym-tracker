@@ -28,12 +28,24 @@ VIRTUS is a minimalistic, distraction-free workout tracker designed for serious 
 Here is what I'm planning for the next updates (v2.0):
 
 - [ ] **Music Control:** See track info and control music directly from the app.
+- [ ] **Workouts Reorder** Change the workout order.
+- [ ] **Widgets** Home screen widgets for easy access to your workouts.
 - [ ] **Analytics:** Graphs to visualize your strength progress over time.
 - [ ] **1RM Calculator:** Estimate your One Rep Max based on your lifts.
 - [ ] **Social Sharing:** Create cool summaries to share on Instagram Stories.
 - [ ] **Achievements:** Unlock badges like "Early Bird" or "Heavy Lifter".
 
+---
+
 > *Have a feature request? Feel free to open an Issue!*
+
+## 💬 Community & Feature Requests
+
+Want to suggest a feature or report a bug? Join us on Reddit!
+
+<a href="https://www.reddit.com/r/ΤΟ_ΟΝΟΜΑ_ΠΟΥ_ΕΦΤΙΑΞΕΣ">
+  <img src="https://img.shields.io/badge/Join-r%2FVirtusApp-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="40">
+</a>
 
 ---
 ## ❤️ Support Development
