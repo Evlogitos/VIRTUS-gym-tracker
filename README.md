@@ -26,7 +26,10 @@ VIRTUS is a minimalistic, distraction-free workout tracker designed for serious 
 
 ## 📸 Screenshots
 
-*(Εδώ μπορείς αργότερα να σύρεις screenshots από το PC σου για να φανούν)*
+![Screenshot_20260207_131154_Virtus](https://github.com/user-attachments/assets/91f3c42e-d25b-442b-8dd2-7f53fa666925)![Screenshot_20260207_131157_Virtus](https://github.com/user-attachments/assets/2902892d-33c3-40f9-97c9-f24a3ea949d6)![Screenshot_20260207_131122_Virtus](https://github.com/user-attachments/assets/8d7d8482-c5ad-4c28-99b6-1c6b4e4f6486)
+
+
+
 
 ---
 
