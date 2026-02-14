@@ -5,7 +5,7 @@ VIRTUS is a minimalistic, distraction-free workout tracker designed for serious 
 
 ## 📱 Download
 
-<a href="https://github.com/Evlogitos/VIRTUS-gym-tracker/releases/download/v1.0/VIRTUS.apk">
+<a href="https://github.com/Evlogitos/VIRTUS-gym-tracker/releases/download/v2.0/VIRTUS.apk">
   <img src="https://img.shields.io/badge/Download_APK-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="50">
 </a>
 
