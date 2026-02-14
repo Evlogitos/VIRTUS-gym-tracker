@@ -14,7 +14,7 @@ VIRTUS is a minimalistic, distraction-free workout tracker designed for serious 
 ---
 
 ## 🔥 Features
-
+* **Music Controller
 * **Custom Timer:** Built-in rest timer with sound notifications.
 * **XP System:** Gamify your workout. Earn XP for every session.
 * **Dark & AMOLED Mode:** Save battery and your eyes.
@@ -27,8 +27,8 @@ VIRTUS is a minimalistic, distraction-free workout tracker designed for serious 
 
 Here is what I'm planning for the next updates (v2.0):
 
-- [ ] **Music Control:** See track info and control music directly from the app.
-- [ ] **Workouts Reorder** Change the workout order.
+- [x] **Music Control:** See track info and control music directly from the app.
+- [x] **Workouts Reorder** Change the workout order.
 - [ ] **Widgets** Home screen widgets for easy access to your workouts.
 - [ ] **Analytics:** Graphs to visualize your strength progress over time.
 - [ ] **1RM Calculator:** Estimate your One Rep Max based on your lifts.
