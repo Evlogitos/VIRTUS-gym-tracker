@@ -29,6 +29,7 @@ Here is what I'm planning for the next updates (v2.0):
 
 - [x] **Music Control:** See track info and control music directly from the app.
 - [x] **Workouts Reorder** Change the workout order.
+- [ ] AI Assistant/Workout Generator
 - [ ] **Widgets** Home screen widgets for easy access to your workouts.
 - [ ] **Analytics:** Graphs to visualize your strength progress over time.
 - [ ] **1RM Calculator:** Estimate your One Rep Max based on your lifts.
