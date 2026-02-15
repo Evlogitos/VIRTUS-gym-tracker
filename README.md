@@ -25,7 +25,7 @@ VIRTUS is a minimalistic, distraction-free workout tracker designed for serious 
 ---
 ## 🚀 Roadmap / Upcoming Features
 
-Here is what I'm planning for the next updates (v2.0):
+Here is what I'm planning for the next updates:
 
 - [x] **Music Control:** See track info and control music directly from the app.
 - [x] **Workouts Reorder** Change the workout order.
